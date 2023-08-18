@@ -14,7 +14,7 @@ Data wrangling is the process of transforming and structuring data from one raw 
 
 - There are many different forms of cleaning data, for example one form of cleaning data is catching dates formatted in a different way, another form is removing outliers that will skew results and also formatting null values, other steps might include imputing missing values.
 
-This is important in assuring the overall quality of the data.
+- This is important in assuring the overall quality of the data.
 
 ##### Enriching
 
@@ -27,7 +27,8 @@ This is important in assuring the overall quality of the data.
 ##### Publishing
 
 - Prepare the data set for use downstream, which could include use for users or software. Be sure to document any steps and logic during wrangling.
-Moreover, research is becoming clear that our algorithms may not perform as expected if the data-quality is inconsistent. Thus, Feature Engineering is becoming a greater area of research to improve existing model performance.
+
+Moreover, research is becoming clear that our algorithms may not perform as expected if the data-quality is inconsistent. Thus, **Feature Engineering** is becoming a greater area of research to improve existing model performance.
 
 ## Reference 
 - [Bookdown.org](https://bookdown.org/jkylearmstrong/jeff_data_wrangling/)
