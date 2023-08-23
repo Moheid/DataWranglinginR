@@ -1,2 +1,2 @@
-# DataWranglinginR
+# Data Wrangling in R
 Data wrangling is a catch-all term that covers the processes that transform raw data into easily used formats, such as merging data from multiple sources into a single dataset, identifying and filling gaps in those datasets, removing unnecessary or unused data, and identifying data outliers that may skew analysis results. Commonly data wrangling may also be referred to as Data Munging. To gather raw data, web scraping is common in data analytics. Web scraping, web harvesting, or web data extraction is a method of extracting data from websites using a web browser and a script or process. For web scraping in general, proficiency in HTML and CSS are a requirement when using both R and Python.
